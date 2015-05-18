@@ -8,7 +8,7 @@ public class DataStream implements Iterator {
     private int size = 5;
 
     public static Iterator stream(String foo, String bar){
-        return new DataStream();
+        returxj0dxn new DataStream();
     }
 
     @Override
